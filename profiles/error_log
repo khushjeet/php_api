@@ -1,0 +1,464 @@
+[02-Jul-2024 12:41:01 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:01 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:01 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:01 UTC] Target directory: ../uploads/driver_profile/
+[02-Jul-2024 12:41:01 UTC] Target file: ../uploads/driver_profile/1000023618.jpg
+[02-Jul-2024 12:41:08 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:08 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:08 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:08 UTC] Target directory: ../uploads/driver_profile/
+[02-Jul-2024 12:41:08 UTC] Target file: ../uploads/driver_profile/1000023618.jpg
+[02-Jul-2024 12:41:09 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:09 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:09 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:09 UTC] Target directory: ../uploads/driver_profile/
+[02-Jul-2024 12:41:09 UTC] Target file: ../uploads/driver_profile/1000023618.jpg
+[02-Jul-2024 12:41:10 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:10 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:10 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:10 UTC] Target directory: ../uploads/driver_profile/
+[02-Jul-2024 12:41:10 UTC] Target file: ../uploads/driver_profile/1000023618.jpg
+[02-Jul-2024 12:41:10 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:10 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:10 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:10 UTC] Target directory: ../uploads/driver_profile/
+[02-Jul-2024 12:41:10 UTC] Target file: ../uploads/driver_profile/1000023618.jpg
+[02-Jul-2024 12:41:10 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:10 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:10 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:41:10 UTC] Target directory: ../uploads/driver_profile/
+[02-Jul-2024 12:41:10 UTC] Target file: ../uploads/driver_profile/1000023618.jpg
+[02-Jul-2024 12:46:58 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:46:58 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:46:58 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[02-Jul-2024 12:46:58 UTC] Target directory: ../uploads/driver_profile/
+[02-Jul-2024 12:46:58 UTC] Target file: ../uploads/driver_profile/1000023618.jpg
+[04-Jul-2024 11:49:11 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:11 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:11 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:11 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:11 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:13 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:13 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:13 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:13 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:13 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:14 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:14 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:14 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:14 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:14 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:14 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:14 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:14 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:14 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:14 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:15 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:15 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:15 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:15 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:15 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:22 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:22 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:22 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:22 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:22 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:23 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:23 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:23 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:23 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:23 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:24 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:24 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:24 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:24 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:24 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:24 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:24 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:24 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:24 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:24 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:24 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:24 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:24 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:24 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:24 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:25 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:25 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:25 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:25 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:25 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:26 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:26 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:26 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:26 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:26 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:26 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:26 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:26 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:26 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:26 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:34 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:34 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:34 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:34 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:34 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:34 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:34 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[04-Jul-2024 11:49:34 UTC] Target directory: ../uploads/driver_profile/
+[04-Jul-2024 11:49:34 UTC] Target file: ../uploads/driver_profile/1000024106.jpg
+[09-Jul-2024 14:38:32 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:32 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:32 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:32 UTC] Target directory: ../uploads/driver_profile/
+[09-Jul-2024 14:38:32 UTC] Target file: ../uploads/driver_profile/IMG_20210401_192150.jpg
+[09-Jul-2024 14:38:35 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:35 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:35 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:35 UTC] Target directory: ../uploads/driver_profile/
+[09-Jul-2024 14:38:35 UTC] Target file: ../uploads/driver_profile/IMG_20210401_192150.jpg
+[09-Jul-2024 14:38:45 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:45 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:45 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:45 UTC] Target directory: ../uploads/driver_profile/
+[09-Jul-2024 14:38:45 UTC] Target file: ../uploads/driver_profile/IMG_20210401_192150.jpg
+[09-Jul-2024 14:38:46 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:46 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:46 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:46 UTC] Target directory: ../uploads/driver_profile/
+[09-Jul-2024 14:38:46 UTC] Target file: ../uploads/driver_profile/IMG_20210401_192150.jpg
+[09-Jul-2024 14:38:46 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:46 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:46 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:46 UTC] Target directory: ../uploads/driver_profile/
+[09-Jul-2024 14:38:46 UTC] Target file: ../uploads/driver_profile/IMG_20210401_192150.jpg
+[09-Jul-2024 14:38:46 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:46 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:46 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:46 UTC] Target directory: ../uploads/driver_profile/
+[09-Jul-2024 14:38:46 UTC] Target file: ../uploads/driver_profile/IMG_20210401_192150.jpg
+[09-Jul-2024 14:38:47 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:47 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:47 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:47 UTC] Target directory: ../uploads/driver_profile/
+[09-Jul-2024 14:38:47 UTC] Target file: ../uploads/driver_profile/IMG_20210401_192150.jpg
+[09-Jul-2024 14:38:47 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:47 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:47 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:47 UTC] Target directory: ../uploads/driver_profile/
+[09-Jul-2024 14:38:47 UTC] Target file: ../uploads/driver_profile/IMG_20210401_192150.jpg
+[09-Jul-2024 14:38:47 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:47 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:47 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:47 UTC] Target directory: ../uploads/driver_profile/
+[09-Jul-2024 14:38:47 UTC] Target file: ../uploads/driver_profile/IMG_20210401_192150.jpg
+[09-Jul-2024 14:38:47 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:47 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:47 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:47 UTC] Target directory: ../uploads/driver_profile/
+[09-Jul-2024 14:38:47 UTC] Target file: ../uploads/driver_profile/IMG_20210401_192150.jpg
+[09-Jul-2024 14:38:48 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:48 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:48 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:48 UTC] Target directory: ../uploads/driver_profile/
+[09-Jul-2024 14:38:48 UTC] Target file: ../uploads/driver_profile/IMG_20210401_192150.jpg
+[09-Jul-2024 14:38:48 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:48 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:48 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:48 UTC] Target directory: ../uploads/driver_profile/
+[09-Jul-2024 14:38:48 UTC] Target file: ../uploads/driver_profile/IMG_20210401_192150.jpg
+[09-Jul-2024 14:38:48 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:48 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:48 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:48 UTC] Target directory: ../uploads/driver_profile/
+[09-Jul-2024 14:38:48 UTC] Target file: ../uploads/driver_profile/IMG_20210401_192150.jpg
+[09-Jul-2024 14:38:48 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:48 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:48 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[09-Jul-2024 14:38:48 UTC] Target directory: ../uploads/driver_profile/
+[09-Jul-2024 14:38:48 UTC] Target file: ../uploads/driver_profile/IMG_20210401_192150.jpg
+[12-Jul-2024 13:03:02 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:03:02 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:03:02 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:03:02 UTC] Target directory: ../uploads/driver_profile/
+[12-Jul-2024 13:03:02 UTC] Target file: ../uploads/driver_profile/1000097235.heic
+[12-Jul-2024 13:03:11 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:03:11 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:03:11 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:03:11 UTC] Target directory: ../uploads/driver_profile/
+[12-Jul-2024 13:03:11 UTC] Target file: ../uploads/driver_profile/1000097235.heic
+[12-Jul-2024 13:03:56 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:03:56 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:03:56 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:03:56 UTC] Target directory: ../uploads/driver_profile/
+[12-Jul-2024 13:03:56 UTC] Target file: ../uploads/driver_profile/1000093159.heic
+[12-Jul-2024 13:04:02 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:02 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:02 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:02 UTC] Target directory: ../uploads/driver_profile/
+[12-Jul-2024 13:04:02 UTC] Target file: ../uploads/driver_profile/1000093159.heic
+[12-Jul-2024 13:04:04 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:04 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:04 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:04 UTC] Target directory: ../uploads/driver_profile/
+[12-Jul-2024 13:04:04 UTC] Target file: ../uploads/driver_profile/1000093159.heic
+[12-Jul-2024 13:04:06 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:06 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:06 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:06 UTC] Target directory: ../uploads/driver_profile/
+[12-Jul-2024 13:04:06 UTC] Target file: ../uploads/driver_profile/1000093159.heic
+[12-Jul-2024 13:04:08 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:08 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:08 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:08 UTC] Target directory: ../uploads/driver_profile/
+[12-Jul-2024 13:04:08 UTC] Target file: ../uploads/driver_profile/1000093159.heic
+[12-Jul-2024 13:04:10 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:10 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:10 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:10 UTC] Target directory: ../uploads/driver_profile/
+[12-Jul-2024 13:04:10 UTC] Target file: ../uploads/driver_profile/1000093159.heic
+[12-Jul-2024 13:04:10 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:10 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:10 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:10 UTC] Target directory: ../uploads/driver_profile/
+[12-Jul-2024 13:04:10 UTC] Target file: ../uploads/driver_profile/1000093159.heic
+[12-Jul-2024 13:04:14 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:14 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:14 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:14 UTC] Target directory: ../uploads/driver_profile/
+[12-Jul-2024 13:04:14 UTC] Target file: ../uploads/driver_profile/1000093159.heic
+[12-Jul-2024 13:04:21 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:21 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:21 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[12-Jul-2024 13:04:21 UTC] Target directory: ../uploads/driver_profile/
+[12-Jul-2024 13:04:21 UTC] Target file: ../uploads/driver_profile/1000093159.heic
+[13-Jul-2024 06:10:52 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:10:52 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:10:52 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:10:52 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:10:52 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:19 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:19 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:19 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:19 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:19 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:19 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:19 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:19 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:19 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:19 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:19 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:19 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:19 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:19 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:19 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:19 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:19 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:23 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:23 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:23 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:23 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:23 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:38 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:38 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:38 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:38 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:38 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:45 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:45 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:45 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:45 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:45 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:50 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:50 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:50 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:50 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:50 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:55 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:55 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:55 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:55 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:55 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:56 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:56 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:56 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:56 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:56 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:11:56 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:56 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:56 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:11:56 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:11:56 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:28 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:28 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:28 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:28 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:28 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:28 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:28 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:28 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:28 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:28 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:28 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:28 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:28 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:28 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:28 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:28 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:28 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:28 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:28 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:28 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:30 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:30 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:30 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:30 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:30 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:36 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:36 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:36 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:36 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:36 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:37 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:37 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:37 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:37 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:37 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:37 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:37 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:37 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:37 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:37 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:41 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:41 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:41 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:41 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:41 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:47 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:47 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:47 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:47 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:47 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:48 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:48 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:48 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:48 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:48 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:53 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:53 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:53 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:53 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:53 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:54 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:54 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:54 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:54 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:54 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:56 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:56 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:56 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:56 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:56 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:12:58 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:58 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:58 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:12:58 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:12:58 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:13:01 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:13:01 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:13:01 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:13:01 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:13:01 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:13:24 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:13:24 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:13:24 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:13:24 UTC] Target directory: ../uploads/driver_profile/
+[13-Jul-2024 06:13:24 UTC] Target file: ../uploads/driver_profile/1000062427.heic
+[13-Jul-2024 06:37:59 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:37:59 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:37:59 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:42:48 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:42:48 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:42:48 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:42:48 UTC] PHP Warning:  include(../connections.php): failed to open stream: No such file or directory in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:42:48 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
+[13-Jul-2024 06:42:48 UTC] PHP Warning:  include(): Failed opening '../connections.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/ankusamlogistics.com/api/drivers/profiles/update_profile_photo.php on line 2
