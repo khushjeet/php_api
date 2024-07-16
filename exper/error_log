@@ -1,0 +1,26 @@
+[06-Jul-2024 04:42:42 UTC] PHP Warning:  include(../connnection.php): failed to open stream: No such file or directory in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 3
+[06-Jul-2024 04:42:42 UTC] PHP Warning:  include(../connnection.php): failed to open stream: No such file or directory in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 3
+[06-Jul-2024 04:42:42 UTC] PHP Warning:  include(): Failed opening '../connnection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 3
+[06-Jul-2024 04:42:42 UTC] PHP Notice:  Undefined variable: conn in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 6
+[06-Jul-2024 04:42:42 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 6
+[06-Jul-2024 04:42:42 UTC] PHP Notice:  Undefined index: id in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 11
+[06-Jul-2024 04:42:42 UTC] PHP Notice:  Undefined index: description in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 12
+[06-Jul-2024 04:42:42 UTC] PHP Notice:  Undefined index: cgst in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 13
+[06-Jul-2024 04:42:42 UTC] PHP Notice:  Undefined index: rate in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 14
+[06-Jul-2024 04:42:42 UTC] PHP Notice:  Undefined index: total in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 15
+[06-Jul-2024 04:42:42 UTC] PHP Notice:  Undefined index: quantity in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 16
+[06-Jul-2024 04:42:42 UTC] PHP Notice:  Undefined variable: conn in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 28
+[06-Jul-2024 04:42:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 28
+[06-Jul-2024 04:51:33 UTC] PHP Warning:  include(../connnection.php): failed to open stream: No such file or directory in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 3
+[06-Jul-2024 04:51:33 UTC] PHP Warning:  include(../connnection.php): failed to open stream: No such file or directory in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 3
+[06-Jul-2024 04:51:33 UTC] PHP Warning:  include(): Failed opening '../connnection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 3
+[06-Jul-2024 04:51:33 UTC] PHP Notice:  Undefined variable: conn in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 6
+[06-Jul-2024 04:51:33 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 6
+[06-Jul-2024 04:51:33 UTC] PHP Notice:  Undefined variable: conn in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 28
+[06-Jul-2024 04:51:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/ankusame/purchase.ankusamenggservices.com/api/exper/update_all_item_posted_detail.php on line 28
